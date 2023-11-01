@@ -174,7 +174,7 @@ body{
   padding: 2px 5px;
   display: inline-block;
   border-top: 15px solid;
-  border-image: url(accessory/images.png)40% round;
+  border-image: url(images.png)40% round;
   border-image-outset: 1;
   background: rgb(0, 0, 0, .3);
   margin: 3px auto;
